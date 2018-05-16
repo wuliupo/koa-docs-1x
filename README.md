@@ -1,6 +1,4 @@
-## ![koa](http://ww4.sinaimg.cn/large/61ff0de3gw1ebtqstxfuvj202g01awea.jpg) 中文文档 [![koa@npm](https://badge.fury.io/js/koa.png)](https://npmjs.org/package/koa)&nbsp;[![Build Status](https://travis-ci.org/koajs/koa.png)](https://travis-ci.org/koajs/koa)
-
-[![NPM](https://nodei.co/npm/koa.png)](https://nodei.co/npm/koa/) [![NPM](https://nodei.co/npm-dl/koa.png?months=6)](https://nodei.co/npm/koa/)
+## Koa 1.x 中文文档
 
 Koa，下一代 Node.js web 框架
 
@@ -848,8 +846,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
----
-![docor](https://cdn1.iconfinder.com/data/icons/windows8_icons_iconpharm/26/doctor.png)
-
-Generated using [docor](https://github.com/guo-yu/docor.git) @ 0.1.0. brought to you by [Guo Yu](https://github.com/guo-yu)
